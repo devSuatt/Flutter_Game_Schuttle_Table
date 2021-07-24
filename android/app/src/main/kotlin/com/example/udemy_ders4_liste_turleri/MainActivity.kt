@@ -1,4 +1,4 @@
-package com.example.udemy_ders4_liste_turleri
+package com.example.schuttle_table_game
 
 import io.flutter.embedding.android.FlutterActivity
 
